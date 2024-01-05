@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
-- 코더 : 방은송, 옥창우
+- 코더 : 방은송
 - 리뷰어 : 김윤서
 
 
