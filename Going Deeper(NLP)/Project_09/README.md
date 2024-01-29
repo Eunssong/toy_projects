@@ -1,8 +1,9 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
 - 코더 : 방은송
-- 리뷰어 :
+- 리뷰어 : 박준
 
+![image](https://github.com/Eunssong/AIFFEL/assets/134351442/260d7c7e-b795-4224-94a7-1e92b1240478)
 
 
 🔑 **PRT(Peer Review Template)**
